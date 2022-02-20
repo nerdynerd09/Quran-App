@@ -1,16 +1,9 @@
-# quranapp
+# Quran App
 
-A new Flutter project.
+A simple Quran App.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/63356733/154843414-c936ffa1-59dc-40fe-9d25-6f690c4ee9b9.png)
+![image](https://user-images.githubusercontent.com/63356733/154843436-d754c49d-96ce-4ee2-866c-8262edda4de4.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
